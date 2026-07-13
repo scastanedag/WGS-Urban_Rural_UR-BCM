@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 """
 Microbiome Data Analysis Pipeline: Taxonomy, Function, and Pathogen Load Interactions
-Author: Sergio Castañeda (Segata Lab, CIBIO, University of Trento)
+Author: Sergio Castañeda
 Description: Comprehensive pipeline for processing harmonized MetaPhlAn (taxonomic) 
              and HUMAnN (functional) profiles, including alpha/beta diversity profiling, 
              multivariable clinical tracking, and host-pathogen correlation matrices.
