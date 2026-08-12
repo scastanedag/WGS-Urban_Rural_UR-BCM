@@ -18,8 +18,6 @@ All statistical procedures are rigorously applied with appropriate corrections:
 - Effect‑size filtering (LDA ≥ 1.0) for LEfSe
 - Minimum prevalence threshold (≥5 positives) for pathogen correlations
 
-Figures are exported in PNG, PDF, and SVG formats with publication‑grade styling.
-
 Author:  Sergio CAstaneda
 Date:    2026‑08‑11
 Version: 2.0 
